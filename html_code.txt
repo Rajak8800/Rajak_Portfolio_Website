@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shaik Rajak | Data Analyst Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shaik Rajak</h1>
+        <p>Data Analyst | SQL | Power BI | Python | Excel</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Data Analyst skilled in SQL, Power BI, Excel, and Python. Passionate about leveraging data insights to drive smarter decisions and optimize business strategies.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Bank Loan Dashboard</h3>
+            <p><strong>Tools:</strong> Power BI, SQL Server</p>
+            <p>Developed an interactive loan analysis dashboard to track approval rates, defaults, and risk factors. Improved loan analysis efficiency by 40%.</p>
+            <a href="https://github.com/Rajak8800/Bank_Loan_Dashboard.git" target="_blank">View Project</a>
+        </div>
+
+        <div class="project">
+            <h3>Patient Visit Report</h3>
+            <p><strong>Tools:</strong> Power BI</p>
+            <p>Created a hospital visit analysis dashboard and analyzed 119,216 patient visits over time. Improved operational efficiency by 35%.</p>
+            <a href="https://github.com/Rajak8800/Patient-Visit-Report---Power-BI-Dashboard.git" target="_blank">View Project</a>
+        </div>
+
+        <div class="project">
+            <h3>Website Traffic Analytics</h3>
+            <p><strong>Tools:</strong> Excel, Power BI</p>
+            <p>Built a website traffic dashboard tracking page views, bounce rates, and user engagement. Boosted analysis efficiency by 35%.</p>
+            <a href="https://github.com/Rajak8800/Website-Traffic-Analystics.git" target="_blank">View Project</a>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>SQL (Joins, CTEs, Window Functions)</li>
+            <li>Power BI (Dashboards, Power Query, DAX)</li>
+            <li>Python (Pandas, NumPy, Matplotlib)</li>
+            <li>Excel (Pivot Tables, VLOOKUP, Data Cleaning)</li>
+            <li>MySQL, SQL Server</li>
+            <li>Azure Data Factory (Basics)</li>
+        </ul>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="Rajak_Resume_New.pdf" target="_blank" download>Download My Resume (PDF)</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:shaikrajak8800@gmail.com">shaikrajak8800@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/shaikrajak8800/" target="_blank">linkedin.com/in/shaikrajak8800</a></p>
+        <p>GitHub: <a href="https://github.com/Rajak8800" target="_blank">github.com/Rajak8800</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Shaik Rajak</p>
+    </footer>
+</body>
+</html>
